@@ -13,7 +13,6 @@ Welcome to the Phase 1 of my project! This phase is dedicated to crafting the fr
 - [User Interaction](#user-interaction)
 - [Responsiveness](#responsiveness)
 - [Technologies Used](#technologies-used)
-- [Future Enhancements](#future-enhancements)
 
 ## Introduction
 Our Phase 1 focuses on the front-end development of our website. The primary goal is to create an engaging and user-friendly platform that showcases our workshops, diplomas, and events.
